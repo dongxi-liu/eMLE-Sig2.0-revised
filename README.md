@@ -1,5 +1,5 @@
-# Compact-LWE-plus
-This is a reference implementation of Compact-LWE+ with SageMath script. Compact-LWE+ demonstrates the feasibility of public key encryption without replying on hardness assumptions, but on hardness facts.
+# eMLE-Sig 2.0 revised
 
-To run the code, type:
-  sage clwe-plus.sage
+eMLE-Sig 2.0 is a post-quantum signature scheme. This version addresses the vulnerabilities to leackage attack and key recovery attacks.
+
+
